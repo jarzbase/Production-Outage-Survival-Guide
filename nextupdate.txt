@@ -1,0 +1,2 @@
+# Ideas
+Improve focus state visibility for interactive elements
